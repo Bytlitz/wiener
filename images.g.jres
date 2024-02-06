@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "5"
     },
+    "image2": {
+        "data": "hwQIABAAAADKysrKysrKyqBsaWmpoiIMypqSJsIiKsqsbCJiqSIsDMCaJpbCwsLKrCxpYqIsoqzAKpYiycrCCqysrKysrKys",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
